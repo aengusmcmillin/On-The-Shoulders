@@ -1,12 +1,7 @@
 ﻿* Game Play Loop
-** This is a roguelike game where the player needs to sacrifice themself in order 
-** to open up more of the map for future runs. The idea is that it's a rapid loop
-** of death leading to progression. 
+  * This is a roguelike game where the player needs to sacrifice themself in order to open up more of the map for future runs. The idea is that it's a rapid loop of death leading to progression. 
 * Game Mechanics
-** The player will be able to move around the map, interact with levers or pressure plates,
-** and trigger traps. Given this is a gamejam, there will be no combat. Instead it's going
-** to be more of a puzzle roguelike, diving deeper into the dungeon to unlock treaures that
-** will provide new mechanics for future generations.
+  * The player will be able to move around the map, interact with levers or pressure plates, and trigger traps. Given this is a gamejam, there will be no combat. Instead it's going to be more of a puzzle roguelike, diving deeper into the dungeon to unlock treaures that will provide new mechanics for future generations.
 
 The name On The Shoulders is a reference to the quote "If I have seen further it is by standing on the shoulders of giants."
 by Isaac Newton. The idea is that the player will be able to unlock new mechanics
